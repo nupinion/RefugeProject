@@ -61,7 +61,7 @@ for tmp_obj in output:
 	final_data_greek.append(tmp_out["gr"])
 	# english info
 	tmp_out["en"]["title"] = "Police Station"
-	tmp_out["en"]["language"] = "greek"
+	tmp_out["en"]["language"] = "English"
 	tmp_out["en"]["data"] = "Emergency response, registration, general assistance."
 	tmp_out["en"]["type_focus"] = ["Safety/Security","Registration Information","Emergency Responders"]
 	tmp_out["en"]["country"] = "Greece"

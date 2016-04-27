@@ -178,5 +178,5 @@ focus_mapping[""] = ""
 focus = ["Health/Medical", "Transportation", "Money/Finances", "Shelter", "Clothing", "Food", "Markets", 
 "Safety/Security", "Jobs", "Registration Information", "NGO, Charitable Organization, Places of Worship",
  "Government Organisation", "Emergency Responders", "Power—Recharge phone", "Education",
-"Family services", "General Information"]
+"Family services", "General Aid", "Legal Support", "General Information"]
 
